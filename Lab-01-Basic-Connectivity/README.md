@@ -4,7 +4,7 @@
 Configure end devices with IP addresses and verify connectivity using Ping.
 
 ## Topology
-![Topology](topology.png)
+![Topology](topology.PNG)
 
 ## Devices Used
 - PCs (End Devices)
@@ -18,7 +18,7 @@ Configure end devices with IP addresses and verify connectivity using Ping.
 
 ## Verification
 Successful Ping between devices via the switch.
-![Verification](verification.png)
+![Verification](verification.PNG)
 
 ## Skills
 IP Addressing, Connectivity Testing, Switching Basics, Troubleshooting
